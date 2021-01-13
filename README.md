@@ -1,2 +1,2 @@
 # xpocket-scenarios
-scenarios repository for katacoda
+xpocket scenarios repository for katacoda
