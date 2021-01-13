@@ -1,0 +1,11 @@
+{
+  "title": "XPocket使用教程",
+  "description": "带你快速开始使用XPocket",
+  "courses": [
+    {
+      "course_id": "xpocket-use",
+      "title": "XPocket入门教程",
+      "description": "初级教程"
+    }
+  ]
+}

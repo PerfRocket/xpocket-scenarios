@@ -1,0 +1,46 @@
+{
+  "title": "XPocket基础教程",
+  "description": "基础教程",
+  "difficulty": "Beginner",
+  "time": "",
+  "details": {
+    "steps": [
+      {
+        "title": "启动模拟程序 simulator",
+        "text": "step1.md"
+      },
+      {
+        "title": "启动xpocket",
+        "text": "step2.md"
+      },
+      {
+        "title": "插件使用示例",
+        "text": "step3.md"
+      },
+      {
+        "title": "切换插件",
+        "text": "step4.md"
+      },
+      {
+        "title": "退出插件",
+        "text": "step5.md"
+      },
+      {
+        "title": "退出XPocket",
+        "text": "step7.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal"
+  },
+  "backend": {
+    "imageid": "java"
+  }
+}
