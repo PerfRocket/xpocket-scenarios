@@ -13,4 +13,4 @@
 
 7.`cont`{{execute}}来继续执行  
 
-8. 详细的jdb使用方法参见[jdb官方文档](https://docs.oracle.com/javase/8/docs/technotes/tools/windows/jdb.html)  
+8.详细的jdb使用方法参见[jdb官方文档](https://docs.oracle.com/javase/8/docs/technotes/tools/windows/jdb.html)  
