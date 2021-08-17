@@ -31,7 +31,8 @@
       }
     ],
     "intro": {
-      "text": "intro.md"
+      "text": "intro.md",
+      "courseData": "installpackages.sh"
     },
     "finish": {
       "text": "finish.md"
